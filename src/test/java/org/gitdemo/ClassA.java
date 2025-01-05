@@ -14,6 +14,19 @@ public class ClassA {
 		System.out.println("Method 3");
 	}
 
+	private void method4() {
+		System.out.println("Method 4");
+	}
+
+	private void method5() {
+		System.out.println("Method 5");
+	}
+
+	private void method6() {
+		System.out.println("Method 6");
+
+	}
+
 	private void method7() {
 		System.out.println("Method 7");
 	}
@@ -25,5 +38,4 @@ public class ClassA {
 	private void method9() {
 		System.out.println("Method 9");
 	}
-
 }
